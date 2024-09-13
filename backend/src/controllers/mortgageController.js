@@ -1,4 +1,3 @@
-
 const calculateMinimumDownPayment = (propertyPrice) => {
     let minDownPayment = 0;
     if (propertyPrice <= 500000) {
